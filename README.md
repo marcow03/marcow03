@@ -8,24 +8,3 @@
 youdontfcare/youdontfcare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-*hello*
-**hello**
-# hello
-
-`hello()`
-
-```go
-   func main(){
-       fmt.Println("hello")
-   }
-```
-   
-* hello
-* hello
-  * hello
-  * hello
-1. hello
-2. hello
-  3. hello
-> hello
