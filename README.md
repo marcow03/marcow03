@@ -1,4 +1,4 @@
-### Hi, I’m @youdontfcare! I'm really good at kicking off projects and never finishing them.
+### Hi, I’m Marco and I like to automate things for hours that would take me a few minutes to do manually.
 
 <!---
 youdontfcare/youdontfcare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
